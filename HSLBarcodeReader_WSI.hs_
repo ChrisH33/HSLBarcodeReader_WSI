@@ -197,7 +197,7 @@ namespace HSLBarcodeReader
 		traceAction = StringTable::Load(stringID::traceActionSetSimulation);
 
 		// Trace start of SetSimulation	
-		FormatTrace(traceSource, traceAction, 1);
+		// FormatTrace(traceSource, traceAction, 1);
 
 		// Check variable comPort
 		if(!isNumber(simulate))
@@ -661,4 +661,4 @@ namespace HSLBarcodeReader
 } // end of name space HSLBarcodeReader
 
 #endif  // end of '#ifndef __HSLBarcodeReaderImpl_hsl__'
-// $$author=ch33$$valid=0$$time=2024-08-07 18:18$$checksum=fa48f519$$length=083$$
+// $$author=ch33$$valid=0$$time=2025-07-02 11:06$$checksum=c180e594$$length=083$$

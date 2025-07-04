@@ -47,8 +47,8 @@ namespace HSLBarcodeReader
 // Implementation of File library 
 // ==========================================================================
 #ifdef HSL_RUNTIME
-#include "HSLBarcodeReader.hs_"
+#include "HSLBarcodeReader_WSI.hs_"
 #endif
 
 #endif /* end of #ifndef __HSLBarcodeReaderLib_hsl__ */
-// $$author=ch33$$valid=0$$time=2024-11-08 10:54$$checksum=46337c2d$$length=083$$
+// $$author=ch33$$valid=0$$time=2025-07-02 11:09$$checksum=69f4fb94$$length=083$$
